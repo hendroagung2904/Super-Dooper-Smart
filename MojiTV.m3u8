@@ -6,7 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
-#EXTINF:1,
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#EXT-X-ENDLIST
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
